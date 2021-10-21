@@ -1,10 +1,38 @@
-.column {
+.column1 {
   color:cornsilk;
-  width: 30%;
+  background-color:darkgoldenrod;
+  width: 31%;
   float: left;
   text-align:justify;
   padding-left: 15px;
   padding-right: 15px;
+  border: solid rgb(80, 1, 80);
+  border-width: 1px;
+  margin-bottom: 10px;
+}
+.column2 {
+  color:cornsilk;
+  background-color:rgb(145, 106, 9);
+  width: 31%;
+  float: left;
+  text-align:justify;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: solid rgb(80, 1, 80);
+  border-width: 1px;
+  margin-bottom: 10px;
+}
+.column3 {
+  color:cornsilk;
+  background-color:rgb(122, 90, 8);
+  width: 31%;
+  float: left;
+  text-align:justify;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: solid rgb(80, 1, 80);
+  border-width: 1px;
+  margin-bottom: 10px;
 }
 body {
   background-color: rgb(114, 71, 6);
